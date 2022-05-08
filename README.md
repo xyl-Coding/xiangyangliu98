@@ -1,10 +1,10 @@
-<h1 align="center">Hello World👋, I'm I am Xiangyang(Olivia)</h1>
-<h3 align="center">I am a lifelong learner & passionate about software development</h3>
+<h1 align="center">Hello World👋, I'm Xiangyang(Olivia)</h1>
+<h3 align="center">A lifelong learner & passionate about software development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangyangliu98&label=Profile%20views&color=0e75b6&style=flat" alt="xiangyangliu98" /> </p>
 
 - 🔭 I’m currently a **graduate student at Northeastern University, Seattle.**
 
-- 👯 I’m currently looking for **Software Engineering internship opportunities.**
+- 👯 I’m currently looking for **Software Engineering Internship opportunities.**
 
 - 🤝 I’m looking to **collaborate on open source**
 
@@ -14,7 +14,7 @@
 
 - 📝 I am creating [my new blog now](my new blog now)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **LinkedIn (www.linkedin.com/in/xiangyang-liu)**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Talk with me, I am kinda awesome:</h3>
 <p align="left">
-<a href=www.linkedin.com/in/xiangyang-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiangyang(olivia) liu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xiangyang-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiangyang(olivia) liu" height="30" width="40" /></a>
 <a href="https://fb.com/xiangyang liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xiangyang liu" height="30" width="40" /></a>
 <a href="https://instagram.com/x_sunny_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_sunny_y" height="30" width="40" /></a>
 </p>
