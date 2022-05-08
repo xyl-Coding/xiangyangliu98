@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world, I am Xiangyang(Olivia) 👋
 
 - 🔭 I’m currently a graduate student at Northeastern University, Seattle.
 - 🌱 I’m currently looking for SDE internship opportunities.
