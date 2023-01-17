@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, I'm Xiangyang(Olivia)</h1>
 <h3 align="center">A lifelong learner & passionate about software development</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangyangliu98&label=Profile%20views&color=0e75b6&style=flat" alt="xyl-Coding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyl-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="xyl-Coding" /> </p>
 
 - 🔭 I’m currently a **graduate student at Northeastern University, Seattle.**
 
